@@ -1,97 +1,79 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Anant Srivastava
+# 👋 Hey, I'm Anant Srivastava
 
-### 🚀 Full Stack Developer • Competitive Programmer • C++ Enthusiast
+### Full Stack Developer • C++ Programmer • Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=750&lines=Turning+Ideas+Into+Code...;Building+Projects+That+Matter.;Full+Stack+Developer.;Open+Source+Learner.;DSA+%7C+MERN+%7C+C%2B%2B"/>
+<p>
+I'm passionate about building scalable web applications, solving challenging DSA problems,
+and continuously learning modern technologies.
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0072FF&height=250&section=header&text=Welcome%20To%20My%20GitHub&fontSize=45&fontColor=ffffff"/>
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Building+Projects+that+Matter.;Learning+Something+New+Every+Day.;Full+Stack+Developer.;Competitive+Programmer.;Welcome+to+my+GitHub!" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=BinaryBlaze16&style=for-the-badge&color=blue"/>
+<p>
+<img src="https://komarev.com/ghpvc/?username=BinaryBlaze16&style=for-the-badge&color=0e75b6"/>
+<img src="https://img.shields.io/github/followers/BinaryBlaze16?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/BinaryBlaze16?style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-# ⚡ About Me
+# 🚀 What I'm Currently Doing
 
-```cpp
-class Developer {
-
-public:
-
-string name = "Anant Srivastava";
-
-string username = "BinaryBlaze16";
-
-string role = "Full Stack Developer";
-
-string language = "C++";
-
-string currently_learning = "MERN Stack";
-
-string goal = "Software Engineer @ Top Product Company";
-
-vector<string> hobbies = {
-"Coding",
-"Gym",
-"Open Source",
-"Problem Solving"
-};
-
-};
-```
+- 💻 Building Full Stack web applications
+- 📚 Solving Data Structures & Algorithms every day
+- 🌱 Learning System Design & Backend Engineering
+- ⚡ Exploring AI, Cloud & Blockchain
+- 🤝 Contributing to Open Source projects
 
 ---
 
-# 🛠 Tech Arsenal
+# 💼 Tech Stack
 
-<p align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,typescript"/><br>
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,typescript" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,express"/><br>
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql"/><br>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vite" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
+### Backend
 
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
 </p>
 
 ---
 
-# 🚀 Current Focus
+# 🌟 Featured Projects
 
-✅ Mastering Data Structures & Algorithms
-
-✅ Building Full Stack Projects
-
-✅ Learning System Design
-
-✅ Open Source Contribution
-
-✅ Exploring AI & Blockchain
+| Project | Description |
+|---------|-------------|
+| 🚀 **DSA with C++** | Collection of DSA problems with optimized C++ solutions |
+| 🏥 **MedChain AI** | AI + Blockchain powered Healthcare Platform |
+| 🔥 **Registration App** | Firebase Authentication project |
+| 💬 **Mumble Chat** | Real-time chat application |
+| 📊 **Scoreboard** | Competition scoreboard management |
 
 ---
 
-# 🌟 Featured Repositories
-
-<div align="center">
-
-| ⭐ Repository | 🚀 Description |
-|---------------|----------------|
-| DSA with CPP | Interview Preparation + Competitive Programming |
-| MedChain AI | AI + Blockchain Healthcare Platform |
-| Registration App | Firebase Authentication |
-| Mumble Chat | Real-Time Chat Application |
-| Row Counter | JavaScript Beginner Project |
-
-</div>
-
----
-
-# 📊 GitHub Analytics
+# 📈 GitHub Analytics
 
 <p align="center">
 
@@ -101,23 +83,19 @@ vector<string> hobbies = {
 
 </p>
 
----
-
-# 💻 Languages
-
 <p align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryBlaze16&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryBlaze16&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BinaryBlaze16&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BinaryBlaze16&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -127,52 +105,52 @@ vector<string> hobbies = {
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=BinaryBlaze16&theme=tokyonight&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=BinaryBlaze16&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
 ---
 
-# 🔥 Coding Activity
+# 🎯 Current Goals
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BinaryBlaze16&theme=tokyonight"/>
-
----
-
-# 🎯 2026 Goals
-
-🏆 500+ LeetCode Problems
-
-🚀 Build 15+ Full Stack Projects
-
-🌍 Contribute to Open Source
-
-💼 Land an SDE Role
-
-⭐ Grow GitHub to 1000+ Stars
+- ✅ Strengthen Data Structures & Algorithms
+- 🚀 Build production-ready Full Stack applications
+- 🌍 Make meaningful Open Source contributions
+- ☁️ Learn Cloud & DevOps fundamentals
+- 💼 Prepare for Software Engineering roles
 
 ---
 
-# ☕ Fun Fact
+# 🤝 Let's Connect
 
-> **while(!success){**
->
-> &nbsp;&nbsp;Learn();
->
-> &nbsp;&nbsp;Build();
->
-> &nbsp;&nbsp;Fail();
->
-> &nbsp;&nbsp;Improve();
->
-> **}**
+<p align="center">
+
+<a href="https://github.com/BinaryBlaze16">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin-username">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:binaryblaze16@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://twitter.com/your-twitter-handle">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0072FF&height=150&section=footer"/>
+*"Code. Learn. Build. Repeat."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,50:203a43,100:2c5364&section=footer"/>
 
 </div>
