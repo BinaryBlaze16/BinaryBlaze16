@@ -1,156 +1,64 @@
-<div align="center">
+# Hi there, I'm BinaryBlaze16 👋
 
-# 👋 Hey, I'm Anant Srivastava
+Welcome to my GitHub!  
+I'm passionate about coding, problem solving, and building cool projects in C++ and beyond.
 
-### Full Stack Developer • C++ Programmer • Problem Solver
+🚀 **Competitive Programmer & DSA Enthusiast**
 
-<p>
-I'm passionate about building scalable web applications, solving challenging DSA problems,
-and continuously learning modern technologies.
-</p>
-
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Building+Projects+that+Matter.;Learning+Something+New+Every+Day.;Full+Stack+Developer.;Competitive+Programmer.;Welcome+to+my+GitHub!" />
-</p>
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=BinaryBlaze16&style=for-the-badge&color=0e75b6"/>
-<img src="https://img.shields.io/github/followers/BinaryBlaze16?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/BinaryBlaze16?style=for-the-badge"/>
-</p>
-
-</div>
+- Solving Data Structures & Algorithms problems in C++
+- Preparing for coding interviews and contests
+- Sharing optimized, well-explained solutions for everyone
 
 ---
 
-# 🚀 What I'm Currently Doing
+## 🌟 Featured Projects
 
-- 💻 Building Full Stack web applications
-- 📚 Solving Data Structures & Algorithms every day
-- 🌱 Learning System Design & Backend Engineering
-- ⚡ Exploring AI, Cloud & Blockchain
-- 🤝 Contributing to Open Source projects
+### [DSA with cpp](https://github.com/BinaryBlaze16/DSA-with-cpp)
+> Curated Data Structures and Algorithms problems solved in C++.  
+> Perfect for interview prep, competitive programming, and mastering DSA concepts.
 
----
+### [Registration App with Firebase](https://github.com/BinaryBlaze16/Registration-app-with-firebase)
+> Full-stack registration app using Firebase for authentication and data storage.
 
-# 💼 Tech Stack
+### [Mumble Chat](https://github.com/BinaryBlaze16/mumble-chat)
+> Real-time chat application with modern UI and robust backend.
 
-### Languages
+### [Scoureboard](https://github.com/BinaryBlaze16/Scoureboard)
+> Scoreboard app for tracking and displaying scores in competitions.
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,typescript" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vite" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
-</p>
+### [Row Counter](https://github.com/BinaryBlaze16/row-counter)
+> Simple tool for counting and managing rows in datasets.
 
 ---
 
-# 🌟 Featured Projects
+## 🏆 Achievements
 
-| Project | Description |
-|---------|-------------|
-| 🚀 **DSA with C++** | Collection of DSA problems with optimized C++ solutions |
-| 🏥 **MedChain AI** | AI + Blockchain powered Healthcare Platform |
-| 🔥 **Registration App** | Firebase Authentication project |
-| 💬 **Mumble Chat** | Real-time chat application |
-| 📊 **Scoreboard** | Competition scoreboard management |
+- Solved 1000+ DSA problems
+- Top contributor in C++ tags on coding platforms
+- Active participant in coding contests
 
 ---
 
-# 📈 GitHub Analytics
+## 👨‍💻 Skills
 
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BinaryBlaze16&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BinaryBlaze16&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryBlaze16&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+- **Languages:** C++, Python, JavaScript
+- **Frameworks:** React, Node.js
+- **Tools:** Firebase, Git, VS Code
 
 ---
 
-# 📊 Contribution Graph
+## 📫 Get in Touch
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BinaryBlaze16&theme=tokyo-night&hide_border=true"/>
-
-</p>
+- Email: binaryblaze16@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/your-link)
+- [X (Twitter)](https://twitter.com/your-handle)
 
 ---
 
-# 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BinaryBlaze16&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
+![BinaryBlaze16's GitHub stats](https://github-readme-stats.vercel.app/api?username=BinaryBlaze16&show_icons=true&theme=radical)
 
 ---
 
-# 🎯 Current Goals
-
-- ✅ Strengthen Data Structures & Algorithms
-- 🚀 Build production-ready Full Stack applications
-- 🌍 Make meaningful Open Source contributions
-- ☁️ Learn Cloud & DevOps fundamentals
-- 💼 Prepare for Software Engineering roles
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/BinaryBlaze16">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/your-linkedin-username">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:binaryblaze16@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://twitter.com/your-twitter-handle">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Code. Learn. Build. Repeat."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,50:203a43,100:2c5364&section=footer"/>
-
-</div>
+Happy Coding! 🚀
