@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BinaryBlaze16&label=Profile%20Views&color=bf91f3&style=flat" alt="Profile Views"/>
+  <img src="https://hits.sh/github.com/BinaryBlaze16.svg?style=flat&label=Profile%20Views&color=bf91f3" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/BinaryBlaze16?label=Followers&style=flat&color=70a5fd&labelColor=0d1117" alt="Followers"/>
 </p>
 
