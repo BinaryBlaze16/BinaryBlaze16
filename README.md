@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hits.sh/github.com/BinaryBlaze16.svg?style=flat&label=Profile%20Views&color=bf91f3" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=BinaryBlaze16&label=Profile%20Views&color=bf91f3&style=flat" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/BinaryBlaze16?label=Followers&style=flat&color=70a5fd&labelColor=0d1117" alt="Followers"/>
 </p>
 
@@ -71,14 +71,21 @@ I'm a developer from India who enjoys turning ideas into working web apps and sh
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BinaryBlaze16&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryBlaze16&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BinaryBlaze16&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Streak" />
-</p>
+<table align="center">
+  <tr>
+    <td valign="top" align="center">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=BinaryBlaze16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td valign="top" align="center">
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryBlaze16&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com/?user=BinaryBlaze16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
